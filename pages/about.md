@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I am a student in Faculty of Computer and Informarion Sciences, Ain Shams University. I am highly motivated student interested in Information Technology with passion to learn and seek knowledge.
+I am a student in Faculty of Computer and Information Sciences, Ain Shams University. I am highly motivated student interested in Information Technology with passion to learn and seek knowledge.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
