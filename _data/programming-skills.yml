@@ -1,3 +1,23 @@
+- name: html
+  percentage: 90
+  color: danger
+
+- name: css
+  percentage: 90
+  color: danger
+
+- name: Javascript
+  percentage: 90
+  color: danger
+
+- name: Angular
+  percentage: 90
+  color: danger
+
+- name: Linux
+  percentage: 70
+  color: success
+
 - name: c#
   percentage: 90
   color: danger
@@ -33,7 +53,3 @@
 - name: SQL
   percentage: 90
   color: danger
-
-- name: HTML/CSS
-  percentage: 80
-  color: success
