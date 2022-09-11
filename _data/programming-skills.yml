@@ -1,8 +1,8 @@
-- name: html
+- name: HTML
   percentage: 90
   color: danger
 
-- name: css
+- name: CSS
   percentage: 90
   color: danger
 

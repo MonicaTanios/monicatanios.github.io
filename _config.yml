@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : MonicaTanios
 description         : >-
-                      Think twice, Code once !
+                      If at first, you don't succeed; call it version 1.0
 baseurl             : ""                                                   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : MonicaTanios/monicatanios.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
